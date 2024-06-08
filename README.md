@@ -16,7 +16,7 @@ The dataset consists of articles related to the coronavirus. It includes various
 
 ## Results
 
-### Key topics discussed in the articles examplr
+### Key topics discussed in the articles example
 Cluster 1:
 Topic 1: lncrnas, rbd, revert, apelin, nasopharyng, pairwis, dish, adam, bronchoscopi, tokyo
 Topic 2: lncrnas, cis, utr, noncod, rnas, outdoor, neighbor, nest, enforc, pol
