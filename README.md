@@ -32,25 +32,6 @@ To run this notebook, you need to have the following software installed:
    cd article_analysis
    ```
 
-3. Install the required Python libraries:
-
-   ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn nltk spacy plotly langdetect
-   ```
-
-4. Download the required NLTK and SpaCy data:
-
-   ```python
-   import nltk
-   nltk.download('punkt')
-   nltk.download('wordnet')
-   nltk.download('stopwords')
-   ```
-
-   ```bash
-   python -m spacy download en_core_sci_lg
-   ```
-
 ### Running the Notebook
 
 1. Start Jupyter Notebook:
