@@ -23,13 +23,13 @@ To run this notebook, you need to have the following software installed:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/maryamjbr/article-analysis.git
+   git clone https://github.com/maryamjbr/article_analysis.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd article-analysis
+   cd article_analysis
    ```
 
 3. Install the required Python libraries:
